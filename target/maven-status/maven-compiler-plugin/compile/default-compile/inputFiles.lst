@@ -1,5 +1,12 @@
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/model/TodoData.java
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/util/Mappings.java
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/model/TodoItem.java
 /home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/config/WebAppInitializer.java
 /home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/service/DemoServiceImpl.java
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/controller/TodoItemController.java
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/service/TodoItemServiceImpl.java
 /home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/controller/DemoController.java
 /home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/config/WebConfig.java
 /home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/service/DemoService.java
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/service/TodoItemService.java
+/home/ava/Desktop/spring-todoList/src/main/java/academy/learnprogramming/util/ViewNames.java
